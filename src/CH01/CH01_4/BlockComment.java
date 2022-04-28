@@ -12,7 +12,7 @@ public class BlockComment { // 블록(block) 단위 주석 실습 예제
      목적 : System.out.println 메서드의 기능 테스트
      */
 
-     /* 블록 단위 주석 */
+     /* 블록 단위 주석 : 주석 처리해야 할 문장이 둘 이상의 여러 개일 경우 사용 */
 
      public static void main(String[] args)
      {
