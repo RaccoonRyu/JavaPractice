@@ -1,4 +1,4 @@
-package CH01;
+package CH01.CH01_3;
 
 public class CH01_Ex01_1 {
 

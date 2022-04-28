@@ -1,4 +1,4 @@
-package CH01;
+package CH01.CH01_3;
 
 public class SystemOutPrintln { // 콘솔 화면 출력 예제
     public static void main(String[] args)

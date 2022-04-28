@@ -1,4 +1,4 @@
-package CH01; // 패키지명 CH01;
+package CH01.CH01_3; // 패키지명 CH01;
 
 public class FirstJavaProgram { // 클래스명 FirstJavaProgram
     // 첫 Java 프로그램 작성
